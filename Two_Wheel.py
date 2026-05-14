@@ -1,7 +1,7 @@
 #This is a well documented code showing a robot moving on a 2d interface using ___ configuration.
 import math #this makes us able to use math functions 
-import AuroraMR as bot 
-import os
+import AuroraMR as bot #This is the library that helps us use the mobile robot's functions.
+import os #This is used to save the image of the motion that we are going to plot using matplotlib
 
 
 
